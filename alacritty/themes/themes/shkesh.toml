@@ -1,0 +1,26 @@
+# author: shkesh
+# from: https://github.com/shkesh/configs/alacritty
+
+[colors.primary]
+background = "#0C0D11"
+foreground = "#F6F5F5"
+
+[colors.normal]
+black   = "#454864"
+red     = "#BA7E83"
+green   = "#83BA7E"
+yellow  = "#BA977E"
+blue    = "#7EA1BA"
+magenta = "#B57EBA"
+cyan    = "#7EBAB5"
+white   = "#F6F5F5"
+
+[colors.bright]
+black   = "#646991"
+red     = "#916469"
+green   = "#A3CC9F"
+yellow  = "#CCB29F"
+blue    = "#9FB9CC"
+magenta = "#C89FCC"
+cyan    = "#9FCCC8"
+white   = "#F6F5F5"
