@@ -1,0 +1,11 @@
+{
+	"font_face": "Roboto Mono Medium",
+	"font_size": 14,
+	"default_font_size": 14,
+	"theme": "ayu-mirage.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+}
